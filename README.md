@@ -1,0 +1,4 @@
+vaghelasoftwares01.netlify.app
+vaghelasoftwares01.netlify
+vaghelasoftwares01
+vaghelasoftwares
